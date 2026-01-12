@@ -1,0 +1,4 @@
+Plaintext
+numpy
+matplotlib
+scipy
