@@ -10,6 +10,6 @@
    pip install -r requirements.txt
 
 
-Run the planner:
+2.Run the planner:
 Bash
 python hybrid_a_star.py
