@@ -1,7 +1,7 @@
 # Hybrid A* Path Planner
 
 ## 🎥 Project Demo
-![Demo Animation](demo_two.gif)
+![Demo Animation](demo_three.gif)
 
 ## 📖 Overview
 This project implements the **Hybrid A* algorithm** for non-holonomic robots (Ackermann steering). It optimizes path generation by resolving conflicts between heuristic search and analytic expansion (Reeds-Shepp curves).
