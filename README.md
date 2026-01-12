@@ -11,7 +11,6 @@ This project implements the **Hybrid A* algorithm** for non-holonomic robots (Ac
 
 ## 🚀 Key Features
 - **Kinematic Constraints:** Enforces minimum turning radius for realistic vehicle movement.
-- **Smoother Trajectories:** Added steering cost and steering rate cost to prevent path oscillation.
 - **Improved Goal Logic:** Checks both Position and Orientation (Yaw) at the goal.
 
 ## 🛠️ How to Run
