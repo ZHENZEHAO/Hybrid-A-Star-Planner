@@ -4,11 +4,10 @@
 ![Demo Animation](demo_three.gif)
 
 ## 📖 Overview
-This project implements the **Hybrid A* algorithm** for non-holonomic robots (Ackermann steering). It optimizes path generation by resolving conflicts between heuristic search and analytic expansion (Reeds-Shepp curves).
+This project employs the Hybrid A* algorithm and a self-developed two-dimensional mapping capability to test path planning. The results indicate that path smoothing is required; this capability is currently under development and learning.
 
 ## 🚀 Key Features
 - **Kinematic Constraints:** Enforces minimum turning radius for realistic vehicle movement.
-- **Smoother Trajectories:** Added steering cost and steering rate cost to prevent path oscillation.
 - **Improved Goal Logic:** Checks both Position and Orientation (Yaw) at the goal.
 
 ## 🛠️ How to Run
